@@ -1,0 +1,36 @@
+.home{
+    display: flex;
+}
+
+.teamPre {
+    display: flex;
+    flex-direction: row;
+    margin-top: 13px;
+    background-color: #060505;
+    border-radius: 20px;
+}
+
+.teamBox > img {
+    border-radius: 200px;
+    height: 250px;
+    width: 244px;
+    object-fit: cover;
+}
+
+.fotoPre {
+    margin: 6px;
+}
+
+.teamBox > h3 {
+    color: #fff;
+}
+.teamBox {
+    padding: 11px;
+    margin-top: 18px;
+}
+
+.titulo {
+    font-family: "Josefin Sans", sans-serif;
+    margin-top: 8px;
+    margin-left: 25px;
+}
