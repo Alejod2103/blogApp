@@ -6,7 +6,7 @@ export default function Bitacora() {
             <div className='bitacoraContainer'>
                 <br></br>
               <div className='tituloBitContainer'>
-                  <h1 className='tituloBit'>-BITACORA DE PARTICIPACION-</h1>
+                  <h1 className='tituloBit'>BITACORA DE PARTICIPACION</h1>
               </div> 
 
               <div className='list1'>
