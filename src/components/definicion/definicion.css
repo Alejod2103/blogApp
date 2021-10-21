@@ -62,38 +62,38 @@
    */
 
 .tituloDef {
-    display: flex;
-    margin-left: 500px;
-    margin-top: 14px;
-    flex-direction: row;
-    font-family: "Josefin Sans", sans-serif;
+  display: flex;
+  margin-left: 500px;
+  margin-top: 14px;
+  flex-direction: row;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 .defImg {
-    width: 685px;
-    height: 450px;
-    position: relative;
-    object-fit: cover;
-    border-radius: 7px;
-    margin-left: 740px;
-    border: 1px solid #000;
+  width: 685px;
+  height: 450px;
+  position: relative;
+  object-fit: cover;
+  border-radius: 7px;
+  margin-left: 720px;
+  border: 1px solid #000;
 }
 
 .defInfoContainer {
-    position: absolute;
-    height: 500px;
-    width: 690px;
-    margin-bottom: 20px;
-    display: flex;
-    color: #000;
-    font-size: 19px;
-    line-height: 25px;
-    margin-left: 7px;
-    font: bold;
+  position: absolute;
+  height: 500px;
+  width: 690px;
+  margin-bottom: 20px;
+  display: flex;
+  color: #000;
+  font-size: 19px;
+  line-height: 25px;
+  margin-left: 7px;
+  font: bold;
 }
 
 .defInfo > h1 {
-    font: bold;
-    color: #666;
-    margin-top: 16px;
+  font: bold;
+  color: #666;
+  margin-top: 16px;
 }
