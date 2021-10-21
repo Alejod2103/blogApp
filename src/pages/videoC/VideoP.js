@@ -8,7 +8,7 @@ function VideoP() {
         <div className='video'>
             <div className='tituloContainerV'>
                <span className='tituloV'><h1>Más sobre el Compromiso</h1></span>
-               <p>Conoce mas sobre la importancia del compromiso en los siguientes videos</p>
+               <p>Conoce mas sobre la importancia del compromiso en el siguiente video</p>
             </div>
         </div>
 

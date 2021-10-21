@@ -41,6 +41,10 @@
 
 }
 
+.descripcion_Video:hover {
+    color: olivedrab;
+}
+
 .descripcion_video_contenedor {
     display: flex;
 }
