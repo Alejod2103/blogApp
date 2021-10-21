@@ -1,0 +1,26 @@
+.video {
+  width: 100%;
+  display: flex;
+  margin-left: 20px;
+}
+
+
+
+.tituloV {
+  display: flex;
+  margin-left: 500px;
+  font-family: "Lora", serif;
+}
+
+.tituloContainerV {
+  color: #444;
+}
+
+.tituloContainerV > p {
+  margin-left: 450px;
+  font-weight: 700;
+}
+
+.videoPlayerContainer {
+    display: flex;
+}
