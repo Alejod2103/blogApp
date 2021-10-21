@@ -4,6 +4,7 @@
 
 .teamPre {
     display: flex;
+    width: 100%;
     flex-direction: row;
     margin-top: 13px;
     background-color: #060505;
