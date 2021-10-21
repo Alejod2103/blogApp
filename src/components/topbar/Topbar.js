@@ -22,7 +22,7 @@ export default function Topbar() {
           </li>
 
           
-          <li className="topListItem"><Link className="link" to="/presentacion">DEFINICIONES</Link></li>
+          {/* <li className="topListItem"><Link className="link" to="/presentacion">DEFINICIONES</Link></li> */}
           <li className="topListItem"><Link className="link" to="/video">VIDEOS</Link></li>
           <li className="topListItem"><Link className="link" to="/cuento">CUENTO</Link></li>
         </ul>

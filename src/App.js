@@ -5,6 +5,7 @@ import Topbar from './components/topbar/Topbar';
 import VideoP from './pages/videoC/VideoP';
 import Single from './pages/single/Single';
 import Definicion from './components/definicion/Definicion';
+import Bitacora from './components/bitacora/Bitacora';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Route exact path="/">
         <Homepage />
         <Definicion img="https://be-confluence.com/wp-content/uploads/2020/04/empresarial-762x480.jpg" />
+        <Bitacora />
       </Route>
       <Route path="/posts">
         <Homepage />

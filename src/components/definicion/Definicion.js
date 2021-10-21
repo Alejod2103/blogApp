@@ -19,6 +19,10 @@ export default function Definicion({img}) {
               <li>-Me comprometo a mejorar mi estado físico.</li>
               <li>-Me comprometo a empatizar con todo aquel que necesite de mi ayuda.</li>
           </ul> </p>
+
+          <div className="bitacoracontainer">
+              
+          </div>
          
         </div>
 
@@ -27,7 +31,6 @@ export default function Definicion({img}) {
         src={img}
         alt=""
       />
-
 
 
     </div>
