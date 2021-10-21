@@ -1,4 +1,5 @@
 .bitacoraContainer {
+  width: 100%;
   margin-top: 10px;
   border-radius: 20px;
   background-color: #000;
@@ -7,54 +8,53 @@
 }
 
 .tituloBit {
-    color: #fff;
-    margin-right: 14px;
-    font-family: "Josefin Sans", sans-serif;
+  color: #fff;
+  margin-right: 14px;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 .tituloBitContainer {
-    display: flex;
-    position: relative;
-    flex-direction: row-reverse;
+  display: flex;
+  position: relative;
+  flex-direction: row-reverse;
 }
 
 .bitc {
-    color: #fff;
-    margin-top: 3px;
-    margin-bottom: 3px;
+  color: #fff;
+  margin-top: 3px;
+  margin-bottom: 3px;
 }
 
 .list1 {
-    width: 350px;
-    margin-top: -40px;
-    display: flex;
-    position: relative;
+  width: 350px;
+  margin-top: -40px;
+  display: flex;
+  position: relative;
 }
 
 .list2 {
-    position: absolute;
-    margin-bottom: 14px;
+  position: absolute;
+  margin-bottom: 14px;
 }
 
 .bit {
-    display: flex;
-    position: relative;
-    flex-direction: column;
-    font: bold;
-    font-weight: 700;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  font: bold;
+  font-weight: 700;
 }
 
 .bitDos {
-    margin-top: -130px;
-    display: flex;
-    margin-left: 340px;
-    flex-direction: column;
-    font: bold;
-    font-weight: 700;
+  margin-top: -130px;
+  display: flex;
+  margin-left: 340px;
+  flex-direction: column;
+  font: bold;
+  font-weight: 700;
 }
- 
 
 #nombre {
-    font-family: "Josefin Sans", sans-serif;
-    color: yellow;
+  font-family: "Josefin Sans", sans-serif;
+  color: yellow;
 }
